@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">moneapp</string>
+    <string name="edit_item">Edit</string>
+    <string name="delete_item">Delete</string>
+</resources>
